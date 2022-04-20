@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AbhilashGRaja" target="blank"><img src="https://img.shields.io/twitter/follow/AbhilashGRaja?logo=twitter&style=for-the-badge" alt="AbhilashGRaja" /></a> </p>
 
 - 🔭 I’m currently working on [BoardMan](https://github.com/AB-GR/BoardMan) - A project to showcase my full stack skills
-- 🌱 I’m currently learning **ReactJS** **React Native**
+- 🌱 I’m currently learning **ReactJS** & **ReactNative**
 - 👨‍💻 Check out my personal portfolio: [https://abhilashgraja.netlify.app/](https://abhilashgraja.netlify.app/)
 - 📫 Contact me: **abhilashgraja@gmail.com**
 
