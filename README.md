@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Abhilash</h1>
+<h1 align="center">Hey 👋, I'm Abhi</h1>
 <h3 align="center">💻</h3>
 
 <p align="left"> <a href="https://twitter.com/AbhilashGRaja" target="blank"><img src="https://img.shields.io/twitter/follow/AbhilashGRaja?logo=twitter&style=for-the-badge" alt="AbhilashGRaja" /></a> </p>
