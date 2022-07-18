@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BoardMan](https://github.com/AB-GR/BoardMan) - A project to showcase my full stack skills
 - 🌱 I’m currently learning **ReactJS** & **ReactNative**
-- 👨‍💻 Check out my personal portfolio: [https://abhilashgraja.netlify.app/](https://abhilashgraja.netlify.app/)
+- 👨‍💻 Check out my personal portfolio: [https://abhilashgraja.me/](https://abhilashgraja.me/)
 - 📫 Contact me: **abhilashgraja@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
